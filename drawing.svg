@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="drawing.svg"
+   inkscape:version="1.1-dev (60faa23c, 2020-06-06)"
+   id="svg6"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="25"
+     inkscape:window-x="0"
+     inkscape:window-height="847"
+     inkscape:window-width="1252"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="554.28571"
+     inkscape:cx="400"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="44.601189"
+       x="46.113094"
+       height="78.619049"
+       width="125.48809"
+       id="rect8"
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.264583" />
+    <ellipse
+       ry="46.869045"
+       rx="45.735119"
+       cy="144.3869"
+       cx="60.854164"
+       id="path10"
+       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.264583" />
+    <text
+       id="text14"
+       y="170.08928"
+       x="130.77975"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         y="170.08928"
+         x="130.77975"
+         style="stroke-width:0.264583"
+         id="tspan12"
+         sodipodi:role="line">Lorem</tspan></text>
+  </g>
+</svg>
